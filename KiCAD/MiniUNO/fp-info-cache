@@ -1,4 +1,4 @@
-24418935108845228
+24420681448072681
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53950,6 +53950,13 @@ muRata MEJ1S DCDC-Converter
 4
 Crystal
 830108288709
+830108288709-1
+Crystal or Oscillator
+0
+4
+4
+Crystal
+830108288709_Handsolderable
 830108288709-1
 Crystal or Oscillator
 0

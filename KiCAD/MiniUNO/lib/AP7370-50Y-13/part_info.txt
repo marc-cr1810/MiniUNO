@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=AP7370-50Y-13
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=8.2
+Released=2020-09-15 09:23:49
+Downloaded=2025-05-05 08:21:22
+3D=Y

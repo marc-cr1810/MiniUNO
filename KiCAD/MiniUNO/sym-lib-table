@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "Crystal")(type "KiCad")(uri "${KIPRJMOD}/lib/Crystal/830108288709.kicad_sym")(options "")(descr ""))
+  (lib (name "AP7370-50Y-13")(type "KiCad")(uri "${KIPRJMOD}/lib/AP7370-50Y-13/AP7370-50Y-13.kicad_sym")(options "")(descr ""))
+  (lib (name "AZ1117CR2-5_0TRG1")(type "KiCad")(uri "${KIPRJMOD}/lib/AZ1117CR2-5.0TRG1/AZ1117CR2-5_0TRG1.kicad_sym")(options "")(descr ""))
 )

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7370-50Y-13
+D LDO Voltage Regulators 300mA, 5V ULDO Regulator
+K
+F https://www.diodes.com//assets/Datasheets/AP7370.pdf
+$ENDCMP
+#
+#End Doc Library

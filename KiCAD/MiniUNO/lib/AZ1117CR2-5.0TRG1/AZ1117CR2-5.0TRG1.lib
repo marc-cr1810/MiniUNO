@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AZ1117CR2-5.0TRG1
+#/1083245/915238/2.50/4/2/Integrated Circuit
+DEF AZ1117CR2-5.0TRG1 IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "AZ1117CR2-5.0TRG1" 1250 200 50 H V L CNN
+F2 "AP738133Y13" 1250 100 50 H I L CNN
+F3 "https://www.diodes.com//assets/Datasheets/AZ1117C.pdf" 1250 0 50 H I L CNN
+F4 "Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-89-3" 1250 -100 50 H I L CNN "Description"
+F5 "1.6" 1250 -200 50 H I L CNN "Height"
+F6 "621-AZ1117CR25.0TRG1" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AZ1117CR2-5.0TRG1?qs=lqAf%2FiVYw9jcPQErqCnZAA%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "AZ1117CR2-5.0TRG1" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ADJ/GND 1 0 0 200 R 50 50 0 0 P
+X INPUT 2 0 -100 200 R 50 50 0 0 P
+X OUTPUT 3 1400 0 200 L 50 50 0 0 P
+X VIN 4 1400 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

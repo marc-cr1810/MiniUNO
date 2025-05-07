@@ -3,4 +3,5 @@
   (lib (name "Crystal")(type "KiCad")(uri "${KIPRJMOD}/lib/Crystal")(options "")(descr ""))
   (lib (name "AP7370-50Y-13")(type "KiCad")(uri "${KIPRJMOD}/lib/AP7370-50Y-13")(options "")(descr ""))
   (lib (name "AZ1117CR2-5.0TRG1")(type "KiCad")(uri "${KIPRJMOD}/lib/AZ1117CR2-5.0TRG1")(options "")(descr ""))
+  (lib (name "MBRM120LT1G")(type "KiCad")(uri "${KIPRJMOD}/lib/MBRM120LT1G")(options "")(descr ""))
 )

@@ -1,0 +1,142 @@
+(footprint "457-04"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "457-04")
+	(tags "Diode")
+	(property "Reference" "D**"
+		(at 0.065 -0.977 0)
+		(layer "F.SilkS")
+		(uuid "97d2f579-f2a9-44aa-b89f-99a059584433")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "457-04"
+		(at 0.065 -0.977 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f65b7eee-cd80-41ae-aa31-17ee9eec9fd2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ae2df20-4536-4bc2-a8a6-8e27a6d94d4a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3fe0bec-5ed1-44fa-89a9-f0321a672429")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1.817 -1.116)
+		(end -1.817 -1.0366)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3e22f7a8-c9af-4a39-8d3a-e63b0ad852ef")
+	)
+	(fp_line
+		(start 0 -2.05)
+		(end 2.3 -2.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "770cc994-3a79-44b2-a784-84fb96bb0cb0")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -2.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c656d6a9-831a-4d43-a20f-4ba3823fecc9")
+	)
+	(fp_line
+		(start 2.3 -2.05)
+		(end 2.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8c095c73-1e0e-495d-8fb4-0eb8ba78d2fc")
+	)
+	(fp_line
+		(start 2.3 0)
+		(end 0 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cdcf994b-9b15-46c7-aac0-11f7bc8d52fd")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.065 -0.977 0)
+		(layer "F.Fab")
+		(uuid "782e849b-46cb-4c67-b9f0-5c6706661340")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.041 -1.025 90)
+		(size 2.54 2.67)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c8002653-00ff-4e6f-8551-4cd306aefb4a")
+	)
+	(pad "2" smd rect
+		(at 2.392 -1.025)
+		(size 0.762 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "74546fd3-199c-4678-8e12-548e5f432602")
+	)
+	(embedded_fonts no)
+	(model "MBRM120LT1G.stp"
+		(offset
+			(xyz 0.6600000163 0.970000014 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

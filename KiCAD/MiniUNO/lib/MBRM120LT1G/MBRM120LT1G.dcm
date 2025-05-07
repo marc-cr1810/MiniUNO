@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBRM120LT1G
+D NRVB Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; Low Profile - Maximum Height of 1.1 mm; Small Footprint - Footprint Area of 8.45 mm2; Low VF Provides Higher Efficiency and Extends Battery Life; Supplied in 12 mm Tape and Reel; Low Thermal Resistance with Direct Thermal Path of Die on Exposed Cathode Heat Sink Mechanical Characteristics:; Powermite is JEDEC Registered as DO-216AA; Case: Molded Epoxy; Powermite is JEDEC Registered as DO-216AA; Weight: 6
+K
+F https://www.onsemi.com/pub/Collateral/MBRM120L-D.PDF
+$ENDCMP
+#
+#End Doc Library

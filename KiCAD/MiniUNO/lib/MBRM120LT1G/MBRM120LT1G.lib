@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MBRM120LT1G
+#/225008/915238/2.50/2/2/Diode
+DEF MBRM120LT1G D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "MBRM120LT1G" 450 100 50 H V L CNN
+F2 "457-04" 450 0 50 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/MBRM120L-D.PDF" 450 -100 50 H I L CNN
+F4 "NRVB Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; Low Profile - Maximum Height of 1.1 mm; Small Footprint - Footprint Area of 8.45 mm2; Low VF Provides Higher Efficiency and Extends Battery Life; Supplied in 12 mm Tape and Reel; Low Thermal Resistance with Direct Thermal Path of Die on Exposed Cathode Heat Sink Mechanical Characteristics:; Powermite is JEDEC Registered as DO-216AA; Case: Molded Epoxy; Powermite is JEDEC Registered as DO-216AA; Weight: 6" 450 -200 50 H I L CNN "Description"
+F5 "" 450 -300 50 H I L CNN "Height"
+F6 "863-MBRM120LT1G" 450 -400 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi/MBRM120LT1G?qs=3JMERSakebqIv0Ovvbm3nA%3D%3D" 450 -500 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 450 -600 50 H I L CNN "Manufacturer_Name"
+F9 "MBRM120LT1G" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library
